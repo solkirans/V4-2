@@ -1,0 +1,114 @@
+C:\Users\Olcum\Desktop\Camber Measurement System\Camber Measurement System\bin\Debug\Camber Measurement System.exe.config
+C:\Users\Olcum\Desktop\Camber Measurement System\Camber Measurement System\obj\x86\Debug\Camber Measurement System.exe
+C:\Users\Olcum\Desktop\Camber Measurement System\Camber Measurement System\obj\x86\Debug\Camber Measurement System.pdb
+C:\Users\Olcum\Desktop\Camber Measurement System\Camber Measurement System\bin\Debug\Camber Measurement System.exe
+C:\Users\Olcum\Desktop\Camber Measurement System\Camber Measurement System\bin\Debug\Camber Measurement System.pdb
+C:\Users\Olcum\Desktop\Camber Measurement System\Camber Measurement System\bin\Debug\en-US\Camber Measurement System.resources.dll
+C:\Users\Olcum\Desktop\Camber Measurement System\Camber Measurement System\obj\x86\Debug\Camber Measurement System.csprojResolveAssemblyReference.cache
+C:\Users\Olcum\Desktop\Camber Measurement System\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form1.resources
+C:\Users\Olcum\Desktop\Camber Measurement System\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Properties.Resources.resources
+C:\Users\Olcum\Desktop\Camber Measurement System\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form1.en-US.resources
+C:\Users\Olcum\Desktop\Camber Measurement System\Camber Measurement System\obj\x86\Debug\Camber Measurement System.csproj.GenerateResource.Cache
+C:\Users\Olcum\Desktop\Camber Measurement System\Camber Measurement System\obj\x86\Debug\en-US\Camber Measurement System.resources.dll
+J:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\bin\Debug\Camber Measurement System.exe.config
+J:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\obj\x86\Debug\Camber Measurement System.exe
+J:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\obj\x86\Debug\Camber Measurement System.pdb
+J:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\bin\Debug\Camber Measurement System.exe
+J:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\bin\Debug\Camber Measurement System.pdb
+J:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\bin\Debug\en-US\Camber Measurement System.resources.dll
+J:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\obj\x86\Debug\Camber Measurement System.csprojResolveAssemblyReference.cache
+J:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form1.resources
+J:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Properties.Resources.resources
+J:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form1.en-US.resources
+J:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\obj\x86\Debug\Camber Measurement System.csproj.GenerateResource.Cache
+J:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\obj\x86\Debug\en-US\Camber Measurement System.resources.dll
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\bin\Debug\Camber Measurement System.exe.config
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\obj\x86\Debug\Camber Measurement System.exe
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\obj\x86\Debug\Camber Measurement System.pdb
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\bin\Debug\Camber Measurement System.exe
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\bin\Debug\Camber Measurement System.pdb
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\bin\Debug\en-US\Camber Measurement System.resources.dll
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\obj\x86\Debug\Camber Measurement System.csprojResolveAssemblyReference.cache
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form1.resources
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Properties.Resources.resources
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form1.en-US.resources
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\obj\x86\Debug\Camber Measurement System.csproj.GenerateResource.Cache
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V3\Camber Measurement System\obj\x86\Debug\en-US\Camber Measurement System.resources.dll
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\bin\Debug\Camber Measurement System.exe.config
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\Camber Measurement System.exe
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\Camber Measurement System.pdb
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\bin\Debug\Camber Measurement System.exe
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\bin\Debug\Camber Measurement System.pdb
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\bin\Debug\en-US\Camber Measurement System.resources.dll
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\Camber Measurement System.csprojResolveAssemblyReference.cache
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form1.resources
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Properties.Resources.resources
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form1.en-US.resources
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\Camber Measurement System.csproj.GenerateResource.Cache
+N:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\en-US\Camber Measurement System.resources.dll
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\bin\Debug\Camber Measurement System.exe.config
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\Camber Measurement System.exe
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\Camber Measurement System.pdb
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\bin\Debug\Camber Measurement System.exe.config
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\Camber Measurement System.exe
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\Camber Measurement System.pdb
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\bin\Debug\Camber Measurement System.exe
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\bin\Debug\Camber Measurement System.pdb
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\bin\Debug\en-US\Camber Measurement System.resources.dll
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\Camber Measurement System.csprojResolveAssemblyReference.cache
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form1.resources
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Properties.Resources.resources
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form1.en-US.resources
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\Camber Measurement System.csproj.GenerateResource.Cache
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4\Camber Measurement System\obj\x86\Debug\en-US\Camber Measurement System.resources.dll
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\bin\Debug\Camber Measurement System.exe.config
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber Measurement System.exe
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber Measurement System.pdb
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\bin\Debug\Camber Measurement System.exe
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\bin\Debug\Camber Measurement System.pdb
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\bin\Debug\en-US\Camber Measurement System.resources.dll
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\bin\Debug\tr-TR\Camber Measurement System.resources.dll
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber Measurement System.csprojResolveAssemblyReference.cache
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form1.resources
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Properties.Resources.resources
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form1.en-US.resources
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Properties.Resources.tr-TR.resources
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber Measurement System.csproj.GenerateResource.Cache
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\en-US\Camber Measurement System.resources.dll
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\tr-TR\Camber Measurement System.resources.dll
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form2.resources
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\bin\Debug\Camber Measurement System.exe.config
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber Measurement System.exe
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber Measurement System.pdb
+I:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\bin\Debug\Camber Measurement System.exe.config
+I:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber Measurement System.exe
+I:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber Measurement System.pdb
+I:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\bin\Debug\Camber Measurement System.exe
+I:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\bin\Debug\Camber Measurement System.pdb
+I:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\bin\Debug\en-US\Camber Measurement System.resources.dll
+I:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\bin\Debug\tr-TR\Camber Measurement System.resources.dll
+I:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber Measurement System.csprojResolveAssemblyReference.cache
+I:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form1.resources
+I:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form2.resources
+I:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Properties.Resources.resources
+I:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form1.en-US.resources
+I:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Properties.Resources.en-US.resources
+I:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Properties.Resources.tr-TR.resources
+I:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber Measurement System.csproj.GenerateResource.Cache
+I:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\en-US\Camber Measurement System.resources.dll
+I:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\tr-TR\Camber Measurement System.resources.dll
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\bin\Debug\Camber Measurement System.exe
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\bin\Debug\Camber Measurement System.pdb
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\bin\Debug\en-US\Camber Measurement System.resources.dll
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\bin\Debug\tr-TR\Camber Measurement System.resources.dll
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber Measurement System.csprojResolveAssemblyReference.cache
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form1.resources
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form2.resources
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Properties.Resources.resources
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Form1.en-US.resources
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Properties.Resources.en-US.resources
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Properties.Resources.tr-TR.resources
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber Measurement System.csproj.GenerateResource.Cache
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\en-US\Camber Measurement System.resources.dll
+E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\tr-TR\Camber Measurement System.resources.dll
+H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Properties.Resources.en-US.resources

@@ -1,0 +1,101 @@
+Bombe Ölçüm Sistemi
+Ölçüm
+Ayarlar
+Otomatik Ölçüm
+Ölçüm Þekli
+Otomatik
+Manual
+Nokta Sayýsý:
+Ölçüm Numarasý:
+Vardiya:
+Operatör:
+Geniþlik:
+Merdane Numarasý:
+Alaþým:
+Sistem Durumu:
+Yenile
+BAÞLA
+DUR
+Pozisyon ve Kalýnlýk Deðerleri
+Pozisyon:
+Kalýnlýk:
+Manual Ölçüm
+Ölçüm Numarasý:
+Git ve Ölç
+Levha Kenarýný Bul
+Geniþletilmiþ Sistem Durumu
+Alarm Durumu:
+EMG Durumu:
+PEL Durumu:
+MEL Durumu:
+Hareket Durumu:
+Sensör Durumu:
+Hareket Kartý Durumu:
+Operasyon Ayarlarý
+Sensör IP:
+Tur Baþýna Servo Darbesi:
+Tur Baþýna Hareket (mm):
+Maximum Hýz (Darbe/Saniye):
+Hýzlanma Süresi (ms):
+Yavaþlama Süresi (ms):
+Maksimum Levha Kalýnlýðý (mm):
+Minimum Levha Kalýnlýðý (mm):
+Hareket Uzunluðu (mm):
+Hesapla
+Kenar Payý (mm):
+Kaydet
+Çýktý Ayarlarý
+Klasör Yolu:
+Seç
+Ana Klasör Adý:
+Tam Yol:
+Sensör kayýtlarý temizlik periyodu (saat):
+Otomatik
+Lütfen geçerli bir Minimum Levha Kalýnlýðý deðeri giriniz.
+Uygun
+HATALI!
+Hazýr
+Lütfen geçerli bir Nokta Adedi deðeri giriniz.
+Lütfen geçerli bir Ölçüm Kodu giriniz. ( En az 6 Hane )
+Lütfen geçerli bir Vardiya giriniz.
+Lütfen geçerli bir Operatör Adý giriniz.
+Lütfen geçerli bir Geniþlik giriniz.
+Lütfen geçerli bir Merdane Numarasý giriniz.
+Lütfen geçerli bir Alaþým giriniz.
+Lütfen geçerli bir Tur Baþýna Hareket deðeri giriniz.
+Lütfen geçerli bir Hýzlanma Süresi giriniz.
+Lütfen geçerli bir Yavaþlama Süresi giriniz.
+Lütfen geçerli bir Maksimum Levha Kalýnlýðý deðeri giriniz.
+Lütfen geçerli bir Minimum Levha Kalýnlýðý deðeri giriniz.
+Lütfen geçerli bir Tur Baþýna Servo Darbesi deðeri giriniz.
+Lütfen geçerli bir Maksimum Hýz deðeri giriniz.
+Lütfen geçerli bir Hareket Uzunluðu deðeri giriniz.
+Lütfen geçerli bir Kenar Payý deðeri giriniz.
+Yeni deðerleri kaydetmek istediðinize emin misiniz?
+Yeni deðerleri kaydet
+Levha kenarý pozitif yönde mi aranacak?
+Yön Doðrulama
+Hareket Uzunluðu hesaplandý:
+Kabul ediyor musunuz?
+Hareket Uzunluðu doðrulamasý
+Dosya oluþturulurken bir hata ile karþýlaþýldý.
+Baþka bir dosya yolu deneyin ya da diskin yazmaya karþý korumalý olduðundan emin olun.
+Klasör oluþturulurken bir hata ile karþýlaþýldý.
+Üretim Hattý:
+Lütfen geçerli bir Hat Numarasý giriniz.
+Elektrik-Mekanik Ayarlar
+Ölçüm Ayarlarý
+Kayma Kalibrasyonu (mm):
+Filtre Sabiti:
+Elektrik-Mekanik Ayarlar
+Lütfen geçerli bir Kayma Kalibrasyonu deðeri giriniz.
+Lütfen geçerli bir Filtreleme Sabiti deðeri giriniz.
+Hesapla
+Lütfen geçerli bir Ýstenen Hassasiyet deðeri giriniz.
+Lütfen geçerli bir Obje Kalýnlýk deðeri giriniz.
+Gereken Hassasiyet (+/- mm):
+Kalibrasyon Obje Kalýnlýðý (mm):
+Baþla
+Standart Sapma (mm):
+Kayma Hatasý (mm):
+Uygula
