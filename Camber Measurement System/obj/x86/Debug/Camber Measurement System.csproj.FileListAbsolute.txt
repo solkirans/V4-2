@@ -112,3 +112,6 @@ E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Ca
 E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\en-US\Camber Measurement System.resources.dll
 E:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\tr-TR\Camber Measurement System.resources.dll
 H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\obj\x86\Debug\Camber_Measurement_System.Properties.Resources.en-US.resources
+C:\Users\Mry\Documents\Thickness\trunk\Camber Measurement System\bin\Debug\Camber Measurement System.exe.config
+C:\Users\Mry\Documents\Thickness\trunk\Camber Measurement System\obj\x86\Debug\Camber Measurement System.exe
+C:\Users\Mry\Documents\Thickness\trunk\Camber Measurement System\obj\x86\Debug\Camber Measurement System.pdb

@@ -958,6 +958,7 @@ namespace Camber_Measurement_System
                             remaining_step = 0;
                             if (reset_with_find == true)
                             {
+                                motion_head.global_local_position_difference = motion_head.position_mm;
                                 error_code_2 = motion_head.set_home_position(0);
                             }
                             else

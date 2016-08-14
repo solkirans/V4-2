@@ -23,6 +23,8 @@ namespace Camber_Measurement_System
         public static int error_flag = 0; // 0 = Ok, 1 = Error
         public static decimal position_pulse = 0;
         public static decimal position_mm = 0;
+        public static decimal global_position_mm = 0;
+        public static decimal global_local_position_difference = 0;
         //static int stop_read_position = 0;
         static decimal target_pos_pulse = 0;
         static System.Windows.Forms.Timer timer_of_pos = null;
@@ -664,6 +666,8 @@ namespace Camber_Measurement_System
                 {
                     //Form1._Form1.update_cur_pos(return_of_func[1]);
                     return_of_read_position[1] = return_of_func[1];
+                    position_mm = return_of_func[1];
+                    global_position_mm = position_mm + global_local_position_difference;
                     if (error_flag == 0)
                     {
                         error_code = 1;
@@ -726,14 +730,24 @@ namespace Camber_Measurement_System
                     reach = true;
                 }*/
                 //Thread.Sleep(10);
-                if ((motion_done_status == 17) && (Dist > 0)) // positive switch
+                if (motion_done_status == 17) // positive switch touched
                 {
-                    reach = true;
+                    if (Dist > 0) // if direction is positive, stop the motion
+                    {
+                        reach = true;
+                    }
+                    
                 }
 
-                else if ((motion_done_status == 18) && (Dist < 0)) // negative switch
+                else if (motion_done_status == 18)// negative switch touched
                 {
-                    reach = true;
+                    global_position_mm = 0; // set global position to 0 because this point is our reference point
+                    set_home_position(0);
+                    if (Dist < 0) // if direction is negative, stop the motion
+                    {
+                        reach = true;
+                    }
+                    
                 }
                 //else if (motion_status == "Normal stopped condition")
                 //{
