@@ -32221,3 +32221,10 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 14.08.2016 15:24:10   check_motor_status ended.
 14.08.2016 15:24:11   Form1_FormCLosing Started.
 14.08.2016 15:24:11   Form1_FormCLosing Started.
+14.08.2016 16:59:31   Started. Software Version 1.4
+14.08.2016 16:59:31   
+14.08.2016 16:59:31   Acik olan Excel uygulamaları kapatılacak.
+14.08.2016 16:59:31   Acik olan Excel dosyalari kapatilmaya calisiliyor.
+14.08.2016 16:59:32   Form1_Load Started.
+14.08.2016 16:59:33   Form1_FormCLosing Started.
+14.08.2016 16:59:33   Form1_FormCLosing Started.
