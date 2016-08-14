@@ -32189,3 +32189,35 @@ System.NullReferenceException: Object reference not set to an instance of an obj
    at Camber_Measurement_System.motion_head.motion_close() in H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\motion_head.cs:line 623
 20.07.2016 22:38:58   check_motor_status ended.
 20.07.2016 22:39:03   Form1_FormCLosing Started.
+14.08.2016 15:24:00   Started. Software Version 1.4
+14.08.2016 15:24:00   
+14.08.2016 15:24:00   Acik olan Excel uygulamaları kapatılacak.
+14.08.2016 15:24:00   Acik olan Excel dosyalari kapatilmaya calisiliyor.
+14.08.2016 15:24:00   Bir adet Excel dosyasi bulundu ve kapatildi.
+14.08.2016 15:24:02   Form1_Load Started.
+14.08.2016 15:24:02   check_sensor_status started.
+14.08.2016 15:24:07   Error in function: OpenSensorTCPIP ( 169.254.168.150 )
+-2 (ERR_CANNOT_OPEN): 10035 (WSAEWOULDBLOCK): Connecting socket (waiting for connection) (A non-blocking socket operation could not be completed immediately.)
+
+14.08.2016 15:24:07   Sensör yüklenirken bir hata ile karşılaşıldı.
+
+14.08.2016 15:24:09   check_sensor_status ended.
+14.08.2016 15:24:09   check_motor_status started.
+14.08.2016 15:24:09   Motion Library Initialization Function call error!
+System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PCI8102_W32.motion._8102_initial(UInt16& CardID_InBit, Int16 Manual_ID)
+   at Camber_Measurement_System.motion_head.motion_init() in H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\motion_head.cs:line 512
+14.08.2016 15:24:09   Motion Library Parameter Setting Functions call error!
+System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PCI8102_W32.motion._8102_set_pls_outmode(Int16 AxisNo, Int16 pls_outmode)
+   at Camber_Measurement_System.motion_head.motion_init() in H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\motion_head.cs:line 529
+14.08.2016 15:24:10   motion_head class, motion_close function started
+14.08.2016 15:24:10   emg_stop and set_servo functions call error!System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PCI8102_W32.motion._8102_emg_stop(Int16 AxisNo)
+   at Camber_Measurement_System.motion_head.motion_close() in H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\motion_head.cs:line 609
+14.08.2016 15:24:10   motion_close functions call error!System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PCI8102_W32.motion._8102_close()
+   at Camber_Measurement_System.motion_head.motion_close() in H:\Disaridan isler\Teknik Aluminyum\Altug_Kalinlik_Olcme\Quality Control\V4.1\Camber Measurement System\motion_head.cs:line 623
+14.08.2016 15:24:10   check_motor_status ended.
+14.08.2016 15:24:11   Form1_FormCLosing Started.
+14.08.2016 15:24:11   Form1_FormCLosing Started.

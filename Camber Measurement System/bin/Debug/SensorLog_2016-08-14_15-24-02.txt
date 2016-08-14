@@ -1,0 +1,50 @@
+2016-08-14 15:24:02.499557, 15636, Logging    , Trace    , TCLogFile::Open, logType= 2147483647, logLevel= 2147483647, logFlush= 0, logAppend= 1, logFileName is 'SensorLog_2016-08-14_15-24-02.txt'
+2016-08-14 15:24:02.499808, 15636, Logging    , Trace    , MESensor::SetLogfile, MEDAQLib version is 3.2.1.17955
+2016-08-14 15:24:02.499900, 15636, Logging    , Trace    , ParamExchange::LogParameters, IP_Interface (tSTRING)= [6]"TCP/IP", IP_RemoteDataProtocol (tINT)= 0, IP_DataPort (tINT)= 1024, IP_RemoteAddr (tSTRING)= [15]"169.254.168.150", IP_EnableLogging (tINT)= 1
+2016-08-14 15:24:02.500031, 15636, High type  , Trace    , OpenSensorTCPIP, Enter, instanceHandle= 1, remoteAddr= '169.254.168.150'
+2016-08-14 15:24:02.500084, 15636, Middle type, Trace    , SensorMO::Open, m_NumHWDev= 2
+2016-08-14 15:24:02.500236, 15636, High type  , Trace    , MESensor::OpenHWInterface, Enter, this= 0x06844b20, SensorType= CSP2008, hwIf[0]= 0x06848e98 (TCP/IP), m_ScaleErrorValues= 2, m_FixedErrorValue= -1.79769e+308
+2016-08-14 15:24:02.500337, 15636, Middle type, Trace    , HWTCPIP::Open, m_Protocol= 0, m_RemoteAddr= 169.254.168.150, m_RemotePort= 23
+2016-08-14 15:24:07.505725, 15636, Error      , Error    , ErrorMsg::Error_SetText set, Message: -2 (ERR_CANNOT_OPEN): 10035 (WSAEWOULDBLOCK): Connecting socket (waiting for connection) (A non-blocking socket operation could not be completed immediately.)<\r><\n>
+2016-08-14 15:24:07.505791, 15636, High type  , Trace    , MESensor::OpenHWInterface, Leave, HWInterface::Open returned ERR_CANNOT_OPEN
+2016-08-14 15:24:07.505819, 15636, Middle type, Trace    , MESensor::Close, Enter, this= 0x06844b20
+2016-08-14 15:24:07.505847, 15636, Middle type, Trace    , MESensor::ReleaseHWInterface, Enter, this= 0x06844b20, hwIF= 0x06848e98, errMsg= 0x06844b38
+2016-08-14 15:24:07.505872, 15636, Middle type, Trace    , HWTCPIP::Close, m_Protocol= 0, m_RemoteAddr= 169.254.168.150, m_RemotePort= 23
+2016-08-14 15:24:07.515654, 15636, Low type   , Trace    , HWInterface::Close, Enter, this= 0x06848e98
+2016-08-14 15:24:07.515724, 15636, Low type   , Trace    , HWInterface::Close, Leave
+2016-08-14 15:24:07.515753, 15636, Middle type, Trace    , HWTCPIP::Close, m_Protocol= 0, m_RemoteAddr= 169.254.168.150, m_RemotePort= 23
+2016-08-14 15:24:07.515777, 15636, Low type   , Trace    , HWInterface::Close, Enter, this= 0x06848e98
+2016-08-14 15:24:07.515798, 15636, Low type   , Trace    , HWInterface::Close, Leave
+2016-08-14 15:24:07.565620, 15636, Low type   , Trace    , HWInterface::Close, Enter, this= 0x06848e98
+2016-08-14 15:24:07.565670, 15636, Low type   , Trace    , HWInterface::Close, Leave
+2016-08-14 15:24:07.565718, 15636, Middle type, Trace    , MESensor::ReleaseHWInterface, Leave, returned 0
+2016-08-14 15:24:07.565747, 15636, Middle type, Trace    , MESensor::ReleaseHWInterface, Enter, this= 0x06844b20, hwIF= 0x00000000, errMsg= 0x06844b38
+2016-08-14 15:24:07.565770, 15636, Middle type, Trace    , MESensor::ReleaseHWInterface, Leave, returned 0
+2016-08-14 15:24:07.565792, 15636, Middle type, Trace    , MESensor::Close, Leave, returned 0
+2016-08-14 15:24:07.565822, 15636, Middle type, Trace    , CHECK_SENSOR_ERROR macro, Error at 'MESensor::Open (paramExchange)', error text: -2 (ERR_CANNOT_OPEN): 10035 (WSAEWOULDBLOCK): Connecting socket (waiting for connection) (A non-blocking socket operation could not be completed immediately.)<\r><\n>
+2016-08-14 15:24:07.565852, 15636, Middle type, Trace    , CHECK_SENSOR_ERROR macro, Error at 'SensorMO::Open (paramExchange)', error text: -2 (ERR_CANNOT_OPEN): 10035 (WSAEWOULDBLOCK): Connecting socket (waiting for connection) (A non-blocking socket operation could not be completed immediately.)<\r><\n>
+2016-08-14 15:24:07.565902, 15636, High type  , Trace    , OpenSensorTCPIP, Leave, returned ERR_CANNOT_OPEN
+2016-08-14 15:24:07.567471, 15636, Middle type, Trace    , CHECK_SENSOR_ERROR macro, Error at '_T("MESensor::CollectErrors")', error text: -2 (ERR_CANNOT_OPEN): 10035 (WSAEWOULDBLOCK): Connecting socket (waiting for connection) (A non-blocking socket operation could not be completed immediately.)<\r><\n>
+2016-08-14 15:24:07.567574, 15636, High type  , Trace    , GetError, instanceHandle= 1, errText= 0x05123338 ('-2 (ERR_CANNOT_OPEN): 10035 (WSAEWOULDBLOCK): Connecting socket (waiting for connection) (A non-blocking socket operation could not be completed immediately.)<\r><\n>'), maxLen= 1024, unicode= false, returned ERR_CANNOT_OPEN
+2016-08-14 15:24:09.230910, 15636, High type  , Trace    , ReleaseSensorInstance, Enter, instanceHandle= 1
+2016-08-14 15:24:09.230976, 15636, Middle type, Trace    , MESensor::Close, Enter, this= 0x06844b20
+2016-08-14 15:24:09.231005, 15636, Middle type, Trace    , MESensor::ReleaseHWInterface, Enter, this= 0x06844b20, hwIF= 0x00000000, errMsg= 0x06844b38
+2016-08-14 15:24:09.231029, 15636, Middle type, Trace    , MESensor::ReleaseHWInterface, Leave, returned 0
+2016-08-14 15:24:09.231055, 15636, Middle type, Trace    , MESensor::ReleaseHWInterface, Enter, this= 0x06844b20, hwIF= 0x00000000, errMsg= 0x06844b38
+2016-08-14 15:24:09.231077, 15636, Middle type, Trace    , MESensor::ReleaseHWInterface, Leave, returned 0
+2016-08-14 15:24:09.231099, 15636, Middle type, Trace    , MESensor::Close, Leave, returned 0
+2016-08-14 15:24:09.231122, 15636, Middle type, Trace    , MESensor::Close, Enter, this= 0x06844b20
+2016-08-14 15:24:09.231148, 15636, Middle type, Trace    , MESensor::ReleaseHWInterface, Enter, this= 0x06844b20, hwIF= 0x00000000, errMsg= 0x06844b38
+2016-08-14 15:24:09.231171, 15636, Middle type, Trace    , MESensor::ReleaseHWInterface, Leave, returned 0
+2016-08-14 15:24:09.231197, 15636, Middle type, Trace    , MESensor::ReleaseHWInterface, Enter, this= 0x06844b20, hwIF= 0x00000000, errMsg= 0x06844b38
+2016-08-14 15:24:09.231219, 15636, Middle type, Trace    , MESensor::ReleaseHWInterface, Leave, returned 0
+2016-08-14 15:24:09.231241, 15636, Middle type, Trace    , MESensor::Close, Leave, returned 0
+2016-08-14 15:24:09.231284, 15636, Middle type, Trace    , MESensor::Close, Enter, this= 0x06844b20
+2016-08-14 15:24:09.231311, 15636, Middle type, Trace    , MESensor::ReleaseHWInterface, Enter, this= 0x06844b20, hwIF= 0x00000000, errMsg= 0x06844b38
+2016-08-14 15:24:09.231334, 15636, Middle type, Trace    , MESensor::ReleaseHWInterface, Leave, returned 0
+2016-08-14 15:24:09.231360, 15636, Middle type, Trace    , MESensor::ReleaseHWInterface, Enter, this= 0x06844b20, hwIF= 0x00000000, errMsg= 0x06844b38
+2016-08-14 15:24:09.231382, 15636, Middle type, Trace    , MESensor::ReleaseHWInterface, Leave, returned 0
+2016-08-14 15:24:09.231404, 15636, Middle type, Trace    , MESensor::Close, Leave, returned 0
+2016-08-14 15:24:09.231447, 15636, High type  , Trace    , MESensor::RegisterDataAvailEvent, Enter, this= 0x06844b20, parameters= 0x00000000, m_EventOnAvailableValues= -1, m_EventOnBufferFillsize= 1
+2016-08-14 15:24:09.231474, 15636, High type  , Trace    , MESensor::RegisterDataAvailEvent, Leave, returned ERR_NOERROR
+2016-08-14 15:24:09.231501, 15636, Logging    , Trace    , TCLogFile::Close

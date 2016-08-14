@@ -2,16 +2,21 @@
 
 public class CalibrationPoint
 {
-    public float thickness1;
-    public float thickness2;
-    public float realThickness1;
-    public float realThickness2;
-    public float slope;
-    public float offset;
+    public decimal thickness1;
+    public decimal thickness2;
+    public decimal realThickness1;
+    public decimal realThickness2;
+    public decimal global_position;
+    public decimal slope;
+    public decimal offset;
 
+    public CalibrationPoint()
+    {
+
+    }
     public void Calibrate()
 	{
-        float slope = (thickness1 - thickness2) / (realThickness1 - realThickness2);
-        float offset = thickness1 - (slope * realThickness1);
+        decimal slope = (thickness1 - thickness2) / (realThickness1 - realThickness2);
+        decimal offset = thickness1 - (slope * realThickness1);
 	}
 }

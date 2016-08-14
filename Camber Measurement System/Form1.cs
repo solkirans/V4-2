@@ -27,6 +27,17 @@ namespace Camber_Measurement_System
         string date_time_format_for_test_folder = "ddnMMnyy-HHnmmnss";
         public static bool closing_flag = false;
         string lang_file = "gui_tr.dat";
+
+
+
+
+
+
+        string calibration_data_file = "calibration.dat"; 
+        Calibration c1 = new Calibration();
+
+        
+
         List<string> text_file_list = new List<string>();
         static object Missing = System.Reflection.Missing.Value;
         decimal[] pos_read;
@@ -537,8 +548,8 @@ namespace Camber_Measurement_System
             tab_control_locked = false;
             yazici.durum_yazici("Form1_Load Started.");
             
-            sensor_check();
-            motion_check();         
+            //sensor_check();
+            //motion_check();         
             
             //Settings atamaları
             settings_writes();
